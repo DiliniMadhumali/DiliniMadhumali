@@ -9,9 +9,9 @@
 
 </br>
 
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 My experience includes both manual and automation testing.
 
-- 🧑‍🎓 I graduated from **SLIIT**
+- 🧑‍🎓 I graduated from **SLIIT** in 2022
 
 - 💬 Ask me about **Test Automation**
 
