@@ -10,7 +10,7 @@
 
 </br>
 
-- 🧑‍🎓 I graduated from **SLIIT** in 2022
+- 🧑‍🎓 Graduated from **SLIIT** in 2022
 
 - 🌱 My experience includes both manual and automation testing
 
