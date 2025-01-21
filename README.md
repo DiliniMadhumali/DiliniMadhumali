@@ -3,6 +3,7 @@
 <h3 align="center">Passionate Quality Assurance Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DiliniMadhumali&label=Profile%20views&color=0e75b6&style=flat" alt="DiliniMadhumali" /> </p>
 
+
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
@@ -18,9 +19,14 @@
 - 📫 How to reach me **dilinimadhumali15@gmail.com**
 
 
-<hr>
+</br>
 
 </br>
+</br>
+</br>
+
+---
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
